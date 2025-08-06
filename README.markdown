@@ -16,7 +16,7 @@ CyberCodeGuard is an AI-powered code vulnerability scanner designed to help deve
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/14mb1v45h/Cyberdudebivash-CyberCodeGuard-.git
    cd YOUR_REPO_NAME
    ```
 2. **Install Dependencies**:
